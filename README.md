@@ -3,7 +3,7 @@
 Results-driven Data Analyst with 8+ years of experience in business analysis, pricing strategy, market analysis, segmentation, and project management. Skilled at transforming complex datasets into actionable insights that drive strategic decisions and enhance business performance.
 
 
-Below are a variety of projects I have worked on using R Studio and Excel tools. View my repository and website to learn more about me😄.
+Below are a variety of projects I have worked on using Asana, Python, R Studio, and Excel tools. View my repository and website to learn more about me😄.
 
 ## Website
 
@@ -12,7 +12,7 @@ Below are a variety of projects I have worked on using R Studio and Excel tools.
 [Repository](https://github.com/Amarajj?tab=repositories)
 
 ## Fun fact
-I play D1 track and field and represent my country at international games!
+Ex-Pro athlete. I played D1 track and field and represented my country at international games!
 
 <!--
 **Amarajj/amarajj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
