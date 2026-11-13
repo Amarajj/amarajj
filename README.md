@@ -1,30 +1,17 @@
 ## Hi there 👋
 
-Results-driven Data Analyst with 8+ years of experience in business analysis, pricing strategy, market analysis, segmentation, and project management. Skilled at transforming complex datasets into actionable insights that drive strategic decisions and enhance business performance.
+I'm Amara, a data and business analyst with 9+ years across analytics, operations and risk. STEM MBA in Business Analytics & Risk Management (St. John's University) and PMP certified.
 
+I turn messy data into decisions: KPI dashboards, SQL analysis, and root-cause work that catches problems before they reach leadership.
 
-Below is my repository link that has a variety of projects I have worked on using Asana, Python, R Studio, and Excel tools. View my LinkedIn to learn more about me😄.
+## Tools
+SQL · Python · R · AWS (S3, Athena) · Tableau · Power BI · Power Apps · Excel
 
-## Website
+## Featured project
+**[NYC Payroll Overtime Analysis](https://github.com/Amarajj/nyc-payroll-overtime-analysis)**: 2.2M payroll records analyzed with AWS S3, Athena SQL and Tableau. Found NYC overtime grew 19% to $3.0B and flagged the Department of Correction as the biggest staffing risk.
 
-[Linkedlin](https://www.linkedin.com/in/amara-obi/)
-
-[Repository](https://github.com/Amarajj?tab=repositories)
+## Connect
+[LinkedIn](https://www.linkedin.com/in/amara-obi/) · [All repositories](https://github.com/Amarajj?tab=repositories)
 
 ## Fun fact
-Ex-Pro athlete. I played D1 track and field and represented my country at international games!
-
-<!--
-**Amarajj/amarajj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Ex-pro athlete. I played D1 track and field and represented my country at international games!
